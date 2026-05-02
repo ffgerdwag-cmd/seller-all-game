@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seller All Game - Join WA</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      color: white;
+      text-align: center;
+    }
+
+    .container {
+      padding: 40px 20px;
+    }
+
+    h1 {
+      font-size: 32px;
+      color: #22c55e;
+    }
+
+    p {
+      margin: 10px 0 30px;
+      color: #cbd5f5;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 15px 25px;
+      font-size: 18px;
+      color: white;
+      background: #22c55e;
+      border-radius: 10px;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+
+    .btn:hover {
+      background: #16a34a;
+    }
+
+    .card {
+      background: rgba(255,255,255,0.05);
+      margin: 20px auto;
+      padding: 20px;
+      border-radius: 15px;
+      max-width: 400px;
+    }
+
+    .footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>SELLER ALL GAME</h1>
+    <p>Jual Beli Akun & Top Up Game Termurah</p>
+
+    <div class="card">
+      <h2>Gabung Saluran WhatsApp</h2>
+      <p>Klik tombol di bawah untuk join dan dapatkan info terbaru!</p>
+      <a class="btn" href="https://whatsapp.com/channel/0029Vaq1TqQHbFVB987VIh2y" target="_blank">JOIN SEKARANG</a>
+    </div>
+
+    <div class="card">
+      <h3>Layanan:</h3>
+      <p>• Mobile Legends<br>
+         • Free Fire<br>
+         • Roblox<br>
+         • PUBG<br>
+         • Clash of Clans<br>
+         • Top Up All Game</p>
+    </div>
+
+    <div class="footer">
+      © 2026 Seller All Game - Aman • Murah • Terpercaya
+    </div>
+  </div>
+
+</body>
+</html>
